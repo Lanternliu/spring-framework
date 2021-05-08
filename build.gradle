@@ -1126,6 +1126,9 @@ project("spring-framework-bom") {
 	}
 }
 
+
+
+
 configure(rootProject) {
 	description = "Spring Framework"
 
